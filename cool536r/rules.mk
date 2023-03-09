@@ -1,1 +1,1 @@
-# MCU name
+POINTING_DEVICE_DRIVER = pimoroni_trackball
